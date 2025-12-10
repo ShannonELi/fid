@@ -50,7 +50,6 @@ h2 {
   font-size: 1em;
   text-transform: uppercase;
   letter-spacing: .5em;
-  text-align: center;
   color: #d1633c;
 }
 dt {
@@ -81,6 +80,5 @@ p.warning, sup {
 }
 
 h2 + p {
-  text-align: center;
   font-style: italic;
 }
